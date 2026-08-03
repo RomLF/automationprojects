@@ -1,3 +1,5 @@
-1.Install VS code with all Playwright JS from: "https://playwright.dev/docs/intro"
+1.Install VS code 
 
-2.Download files ".spec.js" to your Playwright project -> Run Tests
+2.Install Playwright JS from: "https://playwright.dev/docs/intro"
+
+3.Download files ".spec.js" to your Playwright project -> Run Tests
